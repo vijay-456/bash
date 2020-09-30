@@ -1,0 +1,4 @@
+for Vim
+do 
+	echo $Vim
+done

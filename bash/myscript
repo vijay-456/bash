@@ -1,0 +1,7 @@
+hello="Hello World"
+echo $hello
+echo my location:
+pwd
+echo "my files:"
+ls
+exit
